@@ -1,0 +1,13 @@
+D:\Programação\Visual Studio 2019\Worker Income\Worker Income\obj\Debug\netcoreapp3.1\Worker Income.csprojAssemblyReference.cache
+D:\Programação\Visual Studio 2019\Worker Income\Worker Income\obj\Debug\netcoreapp3.1\Worker Income.AssemblyInfoInputs.cache
+D:\Programação\Visual Studio 2019\Worker Income\Worker Income\obj\Debug\netcoreapp3.1\Worker Income.AssemblyInfo.cs
+D:\Programação\Visual Studio 2019\Worker Income\Worker Income\obj\Debug\netcoreapp3.1\Worker Income.csproj.CoreCompileInputs.cache
+D:\Programação\Visual Studio 2019\Worker Income\Worker Income\bin\Debug\netcoreapp3.1\Worker Income.exe
+D:\Programação\Visual Studio 2019\Worker Income\Worker Income\bin\Debug\netcoreapp3.1\Worker Income.deps.json
+D:\Programação\Visual Studio 2019\Worker Income\Worker Income\bin\Debug\netcoreapp3.1\Worker Income.runtimeconfig.json
+D:\Programação\Visual Studio 2019\Worker Income\Worker Income\bin\Debug\netcoreapp3.1\Worker Income.runtimeconfig.dev.json
+D:\Programação\Visual Studio 2019\Worker Income\Worker Income\bin\Debug\netcoreapp3.1\Worker Income.dll
+D:\Programação\Visual Studio 2019\Worker Income\Worker Income\bin\Debug\netcoreapp3.1\Worker Income.pdb
+D:\Programação\Visual Studio 2019\Worker Income\Worker Income\obj\Debug\netcoreapp3.1\Worker Income.dll
+D:\Programação\Visual Studio 2019\Worker Income\Worker Income\obj\Debug\netcoreapp3.1\Worker Income.pdb
+D:\Programação\Visual Studio 2019\Worker Income\Worker Income\obj\Debug\netcoreapp3.1\Worker Income.genruntimeconfig.cache
